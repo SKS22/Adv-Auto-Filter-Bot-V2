@@ -39,7 +39,7 @@ class Translation(object):
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> MC Auto Filter Bot</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/mcadmnbot">dhamu_Ser</a></i></b>
 
